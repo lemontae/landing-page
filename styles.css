@@ -13,6 +13,10 @@ ul {
     list-style: none;
 }
 
+.sec1container {
+    display: flex;
+}
+
 img {
     width: 500px;
 }
