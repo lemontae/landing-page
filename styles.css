@@ -19,6 +19,10 @@ ul {
     font-size: 18px;
 }
 
+h1 {
+    font-size: 34px;
+}
+
 .sec1container {
     display: flex;
     justify-content: center;
