@@ -86,4 +86,6 @@ button {
 
 .quote2 {
     font-size: 20px;
+    display: flex;
+    justify-content: flex-end;
 }
