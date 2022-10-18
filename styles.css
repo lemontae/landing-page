@@ -9,6 +9,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 20px 80px;
+    background-color: black;
 }
 
 ul {
@@ -20,8 +21,14 @@ ul {
     font-size: 18px;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+}
+
 h1 {
     font-size: 34px;
+    color: white;
 }
 
 .sec1container {
