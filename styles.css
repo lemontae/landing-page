@@ -20,6 +20,8 @@ ul {
 
 .sec1container {
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 img {
