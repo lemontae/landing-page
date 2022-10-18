@@ -43,6 +43,10 @@ button {
     width: 500px;
 }
 
+.sec2container {
+    display: flex;
+}
+
 img {
     width: 500px;
 }
