@@ -23,6 +23,7 @@ ul {
     justify-content: center;
     align-items: center;
     margin-top: 120px;
+    gap: 80px;
 }
 
 .sec1title {
