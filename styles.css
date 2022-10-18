@@ -67,3 +67,7 @@ button {
 .text2 {
     font-size: 18px;
 }
+
+.quote {
+    display: flex;
+}
