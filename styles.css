@@ -52,6 +52,10 @@ button {
     justify-content: center;
 }
 
+.sec2title {
+    font-size: 40px;
+}
+
 .sec1img {
     width: 500px;
 }
