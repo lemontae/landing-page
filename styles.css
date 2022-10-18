@@ -16,6 +16,7 @@ ul {
     padding: 0;
     gap: 48px;
     list-style: none;
+    font-size: 18px;
 }
 
 .sec1container {
