@@ -68,10 +68,9 @@ button {
     font-size: 18px;
 }
 
+
 .quote {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+
 }
 
 .quotetext {
