@@ -60,14 +60,10 @@ button {
     padding-bottom: 50px;
 }
 
-.info2 {
+.info2, .sec2img {
     max-width: 200px;
 }
 
 .text2 {
     font-size: 18px;
-}
-
-.sec2img {
-    width: 200px;
 }
