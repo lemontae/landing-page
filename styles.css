@@ -70,4 +70,5 @@ button {
 
 .quote {
     display: flex;
+    justify-content: center;
 }
