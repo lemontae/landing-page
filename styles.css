@@ -7,7 +7,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 20px 80px;
 }
 
 ul {
@@ -77,7 +77,6 @@ button {
 
 .quote {
     max-width: 900px;
-
 }
 
 .quotetext {
