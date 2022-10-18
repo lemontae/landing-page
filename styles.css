@@ -72,3 +72,7 @@ button {
     display: flex;
     justify-content: center;
 }
+
+.quotetext {
+    font-size: 36px;
+}
