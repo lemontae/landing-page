@@ -51,7 +51,7 @@ button {
 .sec2container {
     display: flex;
     justify-content: center;
-    gap: 70px;
+    gap: 50px;
 }
 
 .sec2title {
