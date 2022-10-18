@@ -71,6 +71,7 @@ button {
 .quote {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .quotetext {
