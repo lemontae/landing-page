@@ -43,6 +43,10 @@ button {
     width: 500px;
 }
 
+.sec2 {
+    text-align: center;
+}
+
 .sec2container {
     display: flex;
 }
