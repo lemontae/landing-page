@@ -68,6 +68,11 @@ button {
     font-size: 18px;
 }
 
+.sec3container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
 
 .quote {
     max-width: 900px;
