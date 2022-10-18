@@ -39,7 +39,7 @@ button {
     padding: 8px 25px;
 }
 
-.info1 {
+.info1, .sec1img {
     width: 500px;
 }
 
@@ -66,10 +66,6 @@ button {
 
 .text2 {
     font-size: 18px;
-}
-
-.sec1img {
-    width: 500px;
 }
 
 .sec2img {
