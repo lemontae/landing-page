@@ -113,6 +113,7 @@ button {
 
 .sec4 {
     display: flex;
+    gap: 150px;
     padding: 40px 300px;
     background-color: rgb(195, 135, 96);
     color: white;
