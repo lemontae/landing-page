@@ -85,7 +85,8 @@ button {
     display: flex;
     justify-content: center;
     text-align: center;
-    padding: 100px;
+    padding-top: 50px;
+    padding-bottom: 100px;
 }
 
 .quote {
