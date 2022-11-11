@@ -124,3 +124,7 @@ button {
 .title4 {
     font-weight: bold;
 }
+
+.continue {
+    background-color: rgb(195, 135, 96);
+}
