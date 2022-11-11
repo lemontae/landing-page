@@ -81,7 +81,7 @@ button {
     font-size: 18px;
 }
 
-.sec3container, .sec4container {
+.sec3container {
     display: flex;
     justify-content: center;
     text-align: center;
@@ -102,4 +102,11 @@ button {
     font-size: 20px;
     display: flex;
     justify-content: flex-end;
+}
+
+.sec4container {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 100px;  
 }
