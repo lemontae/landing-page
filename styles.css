@@ -58,6 +58,12 @@ button {
     border-radius: 7px;
 }
 
+.signup {
+    background-color: rgb(210, 176, 150);
+    border: 2px solid rgb(210, 176, 150);
+    color: white;
+    font-weight: bold;
+}
 
 .info1, .sec1img {
     width: 500px;
