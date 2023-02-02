@@ -55,7 +55,9 @@ h1 {
 
 button {
     padding: 8px 25px;
+    border-radius: 7px;
 }
+
 
 .info1, .sec1img {
     width: 500px;
@@ -133,7 +135,6 @@ button {
 
 .continue {
     background-color: rgb(195, 135, 96);
-    border-radius: 7px;
     border: 2px solid white;
     color: white;
     font-size: 15px;
