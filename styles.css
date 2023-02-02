@@ -139,4 +139,5 @@ button {
 .sec5container {
     display: flex;
     justify-content: center;
+    background-color: rgb(175, 144, 123) ;
 }
