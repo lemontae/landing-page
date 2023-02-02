@@ -120,6 +120,7 @@ button {
     display: flex;
     justify-content: flex-end;
     color: white;
+    font-weight: bold;
 }
 
 .sec4container {
