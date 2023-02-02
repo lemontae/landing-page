@@ -1,4 +1,4 @@
-In this page i have constructed a web page about cats using my knowledge about css and html that i have learned so far.
+In this project i have constructed a web page about cats using my knowledge in css and html that i have learned so far.
 
 Photos i used:
 
