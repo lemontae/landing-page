@@ -142,3 +142,7 @@ button {
     background-color: rgb(175, 144, 123);
     color: white;
 }
+
+p {
+    padding: 10px;
+}
