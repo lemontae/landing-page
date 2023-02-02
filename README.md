@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # landing-page
 
 Photos i used:
@@ -11,3 +12,6 @@ White and Grey Short Fur Cat Beside Grey Rock during Daytime - Photo by Dorte fr
 Silver Tabby Cat Besides Person's Arm - Photo by Sornbhakkanut Boonprasop from Pexels: https://www.pexels.com/photo/silver-tabby-cat-besides-person-s-arm-2646483/
 
 Tiger Lying on Ground - Photo by Tuesday Temptation from Pexels: https://www.pexels.com/photo/tiger-lying-on-ground-1551437/
+=======
+# landing-page
+>>>>>>> 86e9ff279f5961577b1fb245335323fdf72e95ed
